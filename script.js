@@ -16,7 +16,7 @@ async function loadCharacters(url) {
     mainContent.innerHTML = ''; // Limpar os resultados anteriores
 
     try {
-git branch -M main
+
         const response = await fetch(url);
         const responseJson = await response.json();
 
