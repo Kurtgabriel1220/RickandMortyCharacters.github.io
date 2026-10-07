@@ -1,7 +1,6 @@
-# The-Dark-Side-Of-The-Moon
+
+# StarWars-Characters
 
 Meu primeiro projeto com HTML, CSS e JAVASCRIPT
- 
-# StarWars-Characters
-# StarWars-Characters
-# StarWars-Characters
+
+
