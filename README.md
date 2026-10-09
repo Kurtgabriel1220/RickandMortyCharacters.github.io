@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rick-and-Morty-Characters
 
 Meu primeiro projeto com HTML, CSS e JAVASCRIPT
